@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "hpid": "A2200001",
+    "name": "연세대학교원주세브란스기독병원",
+    "address": "강원특별자치도 원주시 일산로 20 (일산동)",
+    "lat": 37.348633,
+    "lon": 127.945207,
+    "tel": "033-741-0114",
+    "emergencyBeds": 14,
+    "pediatricBeds": 3,
+    "ctAvailable": true,
+    "mriAvailable": true,
+    "ventilatorAvailable": true,
+    "updatedAt": "20261027152002"
+  },
+  {
+    "hpid": "A2200015",
+    "name": "강원특별자치도원주의료원",
+    "address": "강원특별자치도 원주시 서원대로 387 (개운동)",
+    "lat": 37.337775,
+    "lon": 127.953689,
+    "tel": "033-760-4500",
+    "emergencyBeds": 11,
+    "pediatricBeds": 0,
+    "ctAvailable": true,
+    "mriAvailable": true,
+    "ventilatorAvailable": true,
+    "updatedAt": "20261027152003"
+  }
+]
